@@ -1,5 +1,3 @@
-console.log(greetings);
-
 const app = Vue.createApp({
     data(){
         return{
