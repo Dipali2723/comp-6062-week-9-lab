@@ -1,3 +1,5 @@
+console.log("Lets get started with Vue.js");
+
 const app = Vue.createApp({
     data(){
         return{
