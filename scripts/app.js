@@ -1,4 +1,4 @@
-console.log("Lets get strated with Vue.js!");
+console.log(greetings);
 
 const app = Vue.createApp({
     data(){
